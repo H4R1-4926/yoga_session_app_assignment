@@ -1,0 +1,33 @@
+name: yoga_session_app_assignment
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  bloc: ^9.0.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.1
+  freezed_annotation: ^3.1.0
+  json_annotation: ^4.9.0
+  json_serializable: ^6.10.0
+  just_audio: ^0.10.4
+  simple_circular_progress_bar: ^1.0.2
+
+dev_dependencies:
+  build_runner: ^2.6.0
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+  freezed: ^3.2.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/img/
+    - assets/json/
+    - assets/audio/
+    - assets/audio/bg/bg.mp3
