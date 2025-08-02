@@ -23,7 +23,7 @@
       "type": "segment",
       "name": "intro",
       "audioRef": "intro",
-      "durationSec": 31,
+      "durationSec": 32,
       "script": [
         {
           "text": "Come to all fours. Hands below shoulders, knees under hips. Feel the earth beneath you \u2014 steady, quiet, alive.",
@@ -40,7 +40,7 @@
         {
           "text": "Exhale\u2026 round your back, tuck your chin. Feel the breath soften you like morning mist.",
           "startSec": 22,
-          "endSec": 31,
+          "endSec": 32,
           "imageRef": "cow"
         }
       ]
@@ -49,7 +49,7 @@
       "type": "loop",
       "name": "breath_cycle",
       "audioRef": "loop",
-      "durationSec": 14,
+      "durationSec": 15,
       "iterations": "{{loopCount}}",
       "loopable": true,
       "script": [
@@ -68,7 +68,7 @@
         {
           "text": "Feel your spine flowing like a wave through the trees.",
           "startSec": 10,
-          "endSec": 14,
+          "endSec": 15,
           "imageRef": "base"
         }
       ]
@@ -77,7 +77,7 @@
       "type": "segment",
       "name": "outro",
       "audioRef": "outro",
-      "durationSec": 15,
+      "durationSec": 16,
       "script": [
         {
           "text": "Finish your final round\u2026",
@@ -94,7 +94,7 @@
         {
           "text": "Notice the warmth in your back, the ease in your breath. You are supported \u2014 rooted, yet free.",
           "startSec": 5,
-          "endSec": 15,
+          "endSec": 16,
           "imageRef": "base"
         }
       ]
