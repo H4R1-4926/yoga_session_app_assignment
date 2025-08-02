@@ -45,7 +45,7 @@ class HomePage extends StatelessWidget {
                       child: Card(
                         color: Colors.white,
                         child: ListTile(
-                          title: Text('Pose: ${pose.metadata?.title}'),
+                          title: Text('${pose.metadata?.title}'),
                           subtitle: Text(
                             'Category: ${pose.metadata?.category}',
                           ),
