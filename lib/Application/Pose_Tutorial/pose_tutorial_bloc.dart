@@ -79,6 +79,7 @@ class PoseTutorialBloc extends Bloc<PoseTutorialEvent, PoseTutorialState> {
           isOutro: false,
           img: '',
           description: '',
+          isLoading: false,
         ),
       );
     });
